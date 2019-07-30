@@ -6,7 +6,7 @@ files:
   tags:
   - eu.5gtango
   testing_tags:
-  - "comm-pilot-test"
+  - comm-pilot-test
 - path: sources/vnfd/bs-vnf/bs-vnf.yml
   type: application/vnd.5gtango.vnfd
   tags:
